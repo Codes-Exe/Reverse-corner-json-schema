@@ -1,0 +1,300 @@
+{
+  "pandoc-api-version": [
+    1,
+    23,
+    1
+  ],
+  "meta": {
+    "nocite": {
+      "t": "MetaInlines",
+      "c": [
+        {
+          "t": "Cite",
+          "c": [
+            [
+              {
+                "citationId": "*",
+                "citationPrefix": [],
+                "citationSuffix": [],
+                "citationMode": {
+                  "t": "NormalCitation"
+                },
+                "citationNoteNum": 0,
+                "citationHash": 0
+              }
+            ],
+            [
+              {
+                "t": "Str",
+                "c": "[@*]"
+              }
+            ]
+          ]
+        }
+      ]
+    },
+    "references": {
+      "t": "MetaList",
+      "c": [
+        {
+          "t": "MetaMap",
+          "c": {
+            "author": {
+              "t": "MetaList",
+              "c": [
+                {
+                  "t": "MetaMap",
+                  "c": {
+                    "family": {
+                      "t": "MetaString",
+                      "c": "Wurm"
+                    },
+                    "given": {
+                      "t": "MetaString",
+                      "c": "Klaus"
+                    }
+                  }
+                }
+              ]
+            },
+            "collection-title": {
+              "t": "MetaInlines",
+              "c": [
+                {
+                  "t": "Str",
+                  "c": "Quellen"
+                },
+                {
+                  "t": "Space"
+                },
+                {
+                  "t": "Str",
+                  "c": "und"
+                },
+                {
+                  "t": "Space"
+                },
+                {
+                  "t": "Str",
+                  "c": "studien"
+                },
+                {
+                  "t": "Space"
+                },
+                {
+                  "t": "Str",
+                  "c": "zur"
+                },
+                {
+                  "t": "Space"
+                },
+                {
+                  "t": "Str",
+                  "c": "philosophie"
+                }
+              ]
+            },
+            "edition": {
+              "t": "MetaInlines",
+              "c": [
+                {
+                  "t": "Str",
+                  "c": "Reprint"
+                },
+                {
+                  "t": "Space"
+                },
+                {
+                  "t": "Str",
+                  "c": "2011"
+                }
+              ]
+            },
+            "id": {
+              "t": "MetaString",
+              "c": "Wurm2011-ho"
+            },
+            "issued": {
+              "t": "MetaString",
+              "c": "2011"
+            },
+            "keyword": {
+              "t": "MetaInlines",
+              "c": [
+                {
+                  "t": "Str",
+                  "c": "!!!"
+                },
+                {
+                  "t": "Space"
+                },
+                {
+                  "t": "Str",
+                  "c": "Plotinus"
+                },
+                {
+                  "t": "Space"
+                },
+                {
+                  "t": "Str",
+                  "c": "translation"
+                }
+              ]
+            },
+            "publisher": {
+              "t": "MetaInlines",
+              "c": [
+                {
+                  "t": "Str",
+                  "c": "De"
+                },
+                {
+                  "t": "Space"
+                },
+                {
+                  "t": "Str",
+                  "c": "Gruyter"
+                }
+              ]
+            },
+            "publisher-place": {
+              "t": "MetaInlines",
+              "c": [
+                {
+                  "t": "Str",
+                  "c": "Berlin"
+                }
+              ]
+            },
+            "title": {
+              "t": "MetaInlines",
+              "c": [
+                {
+                  "t": "Span",
+                  "c": [
+                    [
+                      "",
+                      [
+                        "nocase"
+                      ],
+                      []
+                    ],
+                    [
+                      {
+                        "t": "Str",
+                        "c": "Substanz"
+                      },
+                      {
+                        "t": "Space"
+                      },
+                      {
+                        "t": "Str",
+                        "c": "und"
+                      },
+                      {
+                        "t": "Space"
+                      },
+                      {
+                        "t": "Str",
+                        "c": "Qualität"
+                      },
+                      {
+                        "t": "Space"
+                      },
+                      {
+                        "t": "Str",
+                        "c": ":"
+                      },
+                      {
+                        "t": "Space"
+                      },
+                      {
+                        "t": "Str",
+                        "c": "Ein"
+                      },
+                      {
+                        "t": "Space"
+                      },
+                      {
+                        "t": "Str",
+                        "c": "Beitrag"
+                      },
+                      {
+                        "t": "Space"
+                      },
+                      {
+                        "t": "Str",
+                        "c": "zur"
+                      },
+                      {
+                        "t": "Space"
+                      },
+                      {
+                        "t": "Str",
+                        "c": "Interpretation"
+                      },
+                      {
+                        "t": "Space"
+                      },
+                      {
+                        "t": "Str",
+                        "c": "der"
+                      },
+                      {
+                        "t": "Space"
+                      },
+                      {
+                        "t": "Str",
+                        "c": "plotinischen"
+                      },
+                      {
+                        "t": "Space"
+                      },
+                      {
+                        "t": "Str",
+                        "c": "Traktate"
+                      },
+                      {
+                        "t": "Space"
+                      },
+                      {
+                        "t": "Str",
+                        "c": "VI,1,"
+                      },
+                      {
+                        "t": "Space"
+                      },
+                      {
+                        "t": "Str",
+                        "c": "2"
+                      },
+                      {
+                        "t": "Space"
+                      },
+                      {
+                        "t": "Str",
+                        "c": "und"
+                      },
+                      {
+                        "t": "Space"
+                      },
+                      {
+                        "t": "Str",
+                        "c": "3"
+                      }
+                    ]
+                  ]
+                }
+              ]
+            },
+            "type": {
+              "t": "MetaString",
+              "c": "book"
+            }
+          }
+        }
+      ]
+    }
+  },
+  "blocks": []
+}
